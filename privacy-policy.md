@@ -22,7 +22,7 @@ We only store one basic thing to make sure that everything functions properly.
 | Collected Data | Usage & Purpose |
 | :------------- | :----------: |
 | Server IDs | Keeping track of saved server settings and playlist settings. |
-| Song Amount | We store how the number of songs each user has played. **This is only used to display information on the** `/topsongs` **and** `/topusers` **commands**
+| Song Amount | We store how the number of songs each user has played.\n**This is only used to display information on the** `/topsongs` **and** `/topusers` **commands**
 
 ### Do we share our collected data with anyone?
 
