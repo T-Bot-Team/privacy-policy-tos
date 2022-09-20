@@ -22,6 +22,7 @@ We only store one basic thing to make sure that everything functions properly.
 | Collected Data | Usage & Purpose |
 | :------------- | :----------: |
 | Server IDs | Keeping track of saved server settings and playlist settings. |
+| Song Amount | We store how the number of songs each user has played. **This is only used to display information on the** `/topsongs` **and** `/topusers` **commands**
 
 ### Do we share our collected data with anyone?
 
@@ -31,5 +32,5 @@ We do **NOT** share any of our user data, since we know how important privacy is
 
 There are 3 main options available to delete your data.
 - You can either contact the developer on Discord (TehPig_YT#9063) providing your User ID / Server ID. Once the developer is online, your data will be deleted as soon as possible!
-- Join our Discord Support Server by using the `support` command, go to `#general-support` and mention your current state and issue. You will get support in less than 20 minutes.
+- Join our Discord Support Server by using the `ssupport` command, go to `#general-support` and mention your current state and issue. You will get support in less than 5 minutes if support is online.
 - Some of the settings already have an option to disable them/delete the stored data. If there is no option available, try the first 2 options mentioned above.
