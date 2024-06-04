@@ -15,3 +15,8 @@ There are **3 main options** available to delete your data.
 - You can contact the bot developer on Discord (`TehPig_YT`) providing your `User ID` or `Server ID`. Once the developer is online, your data will be deleted and you will be informed!
 - Join our Discord Support Server by using the `ssupport` command, go to `#general-support` and mention your current state and issue. You will get support in less than 5 minutes **if** support is online.
 - Some of the settings already have an option to disable them/delete the stored data. If there is no option available, try the first 2 options mentioned above.
+
+> ## **Terms of Service**
+
+By using our bots, you agree to some information being stored within the bots such as User IDs and Server IDs.
+This will be completed shortly.
